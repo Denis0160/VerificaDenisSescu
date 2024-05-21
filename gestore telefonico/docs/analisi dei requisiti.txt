@@ -1,0 +1,3 @@
+Analisi dei Requisiti
+
+Il software di gestione della rubrica deve permettere al utente di gestire i propri contatti. Il sistema deve permettere al utente di aggiungere nuovi contatti, visualizzare l'elenco dei contatti presenti nella rubrica, cancellare contatti, visualizzare le ultime chiamate effettuate, permettere di andare in modalità nascosta con l'inserimento di una password, e la possibilità di rendere un contatto visibile o nascosto. Una volta inserita la password, l'utente potrà gestire i contatti nascosti esattamente come quelli visibili.

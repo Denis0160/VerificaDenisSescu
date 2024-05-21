@@ -1,0 +1,7 @@
+Possibili migliorie
+
+Il programma senza la lettura del analisi, non è molto intuitivo.
+Può essere reso migliore attraverso l'implementazione di controlli su diversi dati: sul numero di telefono si può effettuare un controllo per controllare e inserisci solo numeri e non caratteri diversi, invece di usare due vettori.
+Ogni volta che utilizza il metodo "cerca", si può accedere attraverso l'inserimento della password, alla modalità nascosta, ideale sarebbe stato accedere solo attraverso l'opzione del case 3, cerca.
+
+

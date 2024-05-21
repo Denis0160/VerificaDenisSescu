@@ -1,0 +1,22 @@
+Analisi Funzionale 
+
+Inserimento: L'utente potrà inserire un contatto specificando il nome, il cognome, il tipo di contratto, e il numero di telefono.
+
+Visualizzazione: L'utente ha la possibilità di visualizzare i contatti presenti nella rubrica.
+
+Cerca: Attraverso il nome l'utente può cercare il contatto, ma se inserisce la password, riesce ad andare in modalità nascosta.
+
+Modifica: attraverso un menu di scelta, l'utente può andare a modificare i dati di un determinato contatto.
+
+cancella: l'utente può eliminare un contatto dalla propria rubrica.
+
+saldo: l'utente inserisce il saldo da ricaricare per effettuare le chiamate.
+
+chiama: permette all'utente di effettuare chiamate e di visualizzare le ultime chiamate.
+
+salva su file: permette di salvare i contatti inseriti in un file.
+
+visualizza file: permette di caricare i contatti presenti sul file nel programma.
+
+rendi contatto nascosto/visibile: permette di rendere un contatto scelto dal utente visibile o nascosto.
+
