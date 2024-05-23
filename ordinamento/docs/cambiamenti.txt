@@ -1,0 +1,2 @@
+Il codice consegnato in verifica era errato, la correzione del codice è stata fondamentale affinché il programma rispetti la consegna.
+Il metodo risolutivo è come quello svolto in verifica.
