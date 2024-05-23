@@ -1,0 +1,3 @@
+Analisi dei Requisiti
+
+Il software deve essere in grado di gestire un insieme disordinato di numeri interi positivi non ripetuti, con dimensione compresa tra 10 e 11 elementi, e valori compresi tra 1 e 30. L'obiettivo è ordinare solo i numeri pari in ordine crescente, mantenendo gli eventuali numeri dispari nelle loro posizioni originali. Inoltre, l'ultimo numero, pari o dispari, deve essere conservato nella sua posizione originale. 

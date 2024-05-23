@@ -1,0 +1,10 @@
+Analisi Funzionale
+
+Il software chiede all'utente di inserire una serie di numeri interi positivi non ripetuti, compresi tra 1 e 30. Verifica i valori inseriti e avvia l'algoritmo di ordinamento Selection Sort per ordinare gli elementi pari in ordine crescente, mantenendo quelli dispari nelle loro posizioni originali e anche l'ultimo elemento del vettore. 
+L'algoritmo Selection Sort scorre l'array, selezionando il minimo elemento pari e scambiandolo con l'elemento corrente. Questo procedimento continua fino a quando non viene controllato l'intero array, in modo che gli elementi pari siano ordinati in ordine crescente, mentre gli elementi dispari rimangono nelle loro posizioni originali.
+
+
+
+
+
+
